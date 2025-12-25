@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Oumeradem
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, I’m Oumer 👋  
+**Software Quality Assurance Engineer (Manual & Automation)**
 
-<!---
-Oumerahmed/Oumerahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧪 Manual Testing | 🤖 Test Automation | 📋 ISTQB | 🔧 CompTIA A+
+
+- Experience in **manual testing**, test case design, regression, and defect tracking  
+- Automation using **Playwright & Selenium (JavaScript)**  
+- API testing with **Postman**  
+- Strong understanding of **SDLC, STLC, and Agile/Scrum**  
+
+### 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+![Playwright](https://img.shields.io/badge/Playwright-green)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A)
+![Postman](https://img.shields.io/badge/Postman-orange)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![Jira](https://img.shields.io/badge/Jira-blue?logo=jira)
+
+📈 **GitHub Stats**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oumeradem&show_icons=true&hide_title=true)
+
+📫 **Contact**
+- LinkedIn: *(add your link)*
+- Email: *(add your email)*
+
+⭐ Open to **QA Engineer / Test Automation Engineer** opportunities
