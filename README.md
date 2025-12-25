@@ -16,8 +16,11 @@
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![Jira](https://img.shields.io/badge/Jira-blue?logo=jira)
 
-📈 **GitHub Stats**
+📈 **GitHub Stats**  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oumeradem&show_icons=true&hide_title=true)
+
+📫 **Contact**  
+🔗 [linkedin.com/in/oumer-adem](https://www.linkedin.com/in/oumer-adem)
 
 📫 **Contact**
 - LinkedIn: *(linkedin.com/in/oumer-adem)*
