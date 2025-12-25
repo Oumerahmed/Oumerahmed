@@ -20,7 +20,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oumeradem&show_icons=true&hide_title=true)
 
 📫 **Contact**
-- LinkedIn: *(add your link)*
-- Email: *(add your email)*
-
+- LinkedIn: *(linkedin.com/in/oumer-adem)*
+  
 ⭐ Open to **QA Engineer / Test Automation Engineer** opportunities
