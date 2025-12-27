@@ -21,6 +21,9 @@
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.google.com)
 
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.google.com)
+
+
 
 
 📫 **Contact**  
