@@ -3,10 +3,13 @@
 
 🧪 Manual Testing | 🤖 Test Automation | 📋 ISTQB | 🔧 CompTIA A+
 
-- Experience in **manual testing**, test case design, regression, and defect tracking  
-- Automation using **Playwright & Selenium (JavaScript)**  
-- API testing with **Postman**  
-- Strong understanding of **SDLC, STLC, and Agile/Scrum**  
+Hands-on experience in manual testing, including test case design, regression testing, and defect tracking across web applications
+
+Designed and maintained automated test suites using Playwright and Selenium (JavaScript) to improve test coverage and reliability
+
+Performed API testing and validation using Postman, ensuring data accuracy and backend reliability
+
+Strong working knowledge of SDLC and STLC, with experience operating in Agile/Scrum environments alongside cross-functional teams
 
 ### 🛠 Tech Stack
 
