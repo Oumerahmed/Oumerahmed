@@ -17,6 +17,9 @@
 [![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+
+
 📫 **Contact**  
 🔗 [linkedin.com/in/oumer-adem](https://www.linkedin.com/in/oumer-adem)
 
