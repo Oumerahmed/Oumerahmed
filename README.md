@@ -23,7 +23,7 @@
 
 
 ### 🎓 Certifications
-[![ISTQB](...)](...)
+[![ISTQB](fundamental testing...)](...)
 [![CompTIA A+](...)](...)
 
 
