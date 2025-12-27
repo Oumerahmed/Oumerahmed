@@ -20,7 +20,9 @@
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA1D2C?style=flat&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/a)
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/jira)
-https://www.atlassian.com/jira
+
+
+[![PlayStation VR](https://img.shields.io/badge/PlayStation%20VR-%23007ACC.svg?logo=playstation&logoColor=white)](#)
 
 
 
