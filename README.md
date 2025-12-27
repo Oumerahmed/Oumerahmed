@@ -18,6 +18,8 @@
 [![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-2E86C1?style=flat&logo=checkmarx&logoColor=white)](https://www.istqb.org/certifications/certified-tester-foundation-level)
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA1D2C?style=flat&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/a)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+
 
 📫 **Contact**  
 🔗 [linkedin.com/in/oumer-adem](https://www.linkedin.com/in/oumer-adem)
