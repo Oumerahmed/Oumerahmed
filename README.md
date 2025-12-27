@@ -20,6 +20,9 @@
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+
+
 
 📈 **GitHub Stats**  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oumeradem&show_icons=true&hide_title=true)
