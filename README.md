@@ -22,6 +22,12 @@
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA1D2C?style=flat&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/a)
 
 
+### 🎓 Certifications
+[![ISTQB](...)](...)
+[![CompTIA A+](...)](...)
+
+
+
 
 
 
