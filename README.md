@@ -15,11 +15,10 @@
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/)
-
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://support.atlassian.com/jira-software-cloud/)
 [![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-2E86C1?style=flat&logo=checkmarx&logoColor=white)](https://www.istqb.org/certifications/certified-tester-foundation-level)
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA1D2C?style=flat&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/a)
 
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://support.atlassian.com/jira-software-cloud/)
 
 
 
