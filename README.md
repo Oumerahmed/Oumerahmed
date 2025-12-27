@@ -19,10 +19,11 @@
 [![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-2E86C1?style=flat&logo=checkmarx&logoColor=white)](https://www.istqb.org/certifications/certified-tester-foundation-level)
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA1D2C?style=flat&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/a)
 
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/jira)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://support.atlassian.com/jira-software-cloud/)
 
 
-[![PlayStation VR](https://img.shields.io/badge/PlayStation%20VR-%23007ACC.svg?logo=playstation&logoColor=white)](#)
+
+
 
 
 
