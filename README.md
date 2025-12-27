@@ -19,14 +19,6 @@
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA1D2C?style=flat&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/a)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
-
-
-
-
-
-
-
 📫 **Contact**  
 🔗 [linkedin.com/in/oumer-adem](https://www.linkedin.com/in/oumer-adem)
 
-⭐ Open to **QA Engineer / Test Automation Engineer** opportunities
