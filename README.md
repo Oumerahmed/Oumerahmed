@@ -21,10 +21,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)](https://cucumber.io/)
-https://www.credly.com/badges/9dc18ced-f9ac-4bf2-9350-2e068ea27238
-
-
-
 
 📫 **Contact**  
 🔗 [linkedin.com/in/oumer-adem](https://www.linkedin.com/in/oumer-adem)
