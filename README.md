@@ -21,8 +21,6 @@
 
 📫 **Contact**  
 🔗 [linkedin.com/in/oumer-adem](https://www.linkedin.com/in/oumer-adem)
-
 📫 **Contact**
-- LinkedIn: *(linkedin.com/in/oumer-adem)*
-  
+- LinkedIn: *(linkedin.com/in/oumer-adem)*  
 ⭐ Open to **QA Engineer / Test Automation Engineer** opportunities
