@@ -22,7 +22,8 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)](https://cucumber.io/)
 
-[![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-blue?logo=jenkins)](PASTE_YOUR_JENKINS_JOB_URL_HERE)
+[![Build Status](http://localhost:8080/buildStatus/icon?job=first-jenkins-project)](http://localhost:8080/job/first-jenkins-project/)
+
 
 
 
