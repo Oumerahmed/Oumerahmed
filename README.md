@@ -26,7 +26,11 @@
 
 
 
+Chatbot Project
+https://oumeradem.github.io/customer-support-chatbot/
 
-📫 **Contact**  
-🔗 [linkedin.com/in/oumer-adem](https://www.linkedin.com/in/oumer-adem)
+
+
+
+
 
